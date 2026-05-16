@@ -10,3 +10,10 @@ __pycache__/
 
 # System files (optional)
 .DS_Store
+
+*.csv
+*.xlsx
+*.parquet
+*.pbix
+
+data/
